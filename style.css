@@ -50,6 +50,9 @@ body{
     padding: 1rem;
     color: #333;
 }
+#Modelos h3{
+  text-decoration: none;
+}
 .descripcion {
   padding: .5rem 1rem;
   color: #666;
@@ -98,6 +101,7 @@ nav{
     color: #333;
      font-weight: 350;
 }
+
 @media screen and (max-width: 430px) {
     nav {
       flex-direction: column;
