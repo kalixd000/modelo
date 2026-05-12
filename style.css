@@ -33,7 +33,6 @@ body{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
 }
-
 .Modelos-card {
     background: white;
     border-radius: 10px;
@@ -42,7 +41,7 @@ body{
 }
 .Modelos-card img {
     width: 100%;
-    height: 200px;
+    height: 200xp;
     object-fit: cover;
 }
 
