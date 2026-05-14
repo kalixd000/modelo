@@ -41,7 +41,7 @@ body{
 }
 .Modelos-card img {
     width: 100%;
-    height: 200xp;
+    height: 300px;
     object-fit: cover;
 }
 
@@ -114,3 +114,7 @@ nav{
       gap: 1rem;
     }
   }
+  a {
+    text-decoration: none; 
+    color: inherit; 
+}
